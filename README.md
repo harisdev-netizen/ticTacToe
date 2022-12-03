@@ -57,5 +57,5 @@ I would like to continue to progress in javascript because I think that even if 
 
 ## Author
 
-- YouTube - [Haris(CODINGITE)](www.youtube.com/@codingite)
+- YouTube - [@CODINGITE](www.youtube.com/@codingite)
 # ticTacToe
